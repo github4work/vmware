@@ -14,7 +14,7 @@ import java.util.Map;
 
 /**
  * Abstract command to simply operation with vCenter.
- * User: Ma Tao
+ * User: github4work
  * Date: 5/13/13
  * Time: 1:48 PM
  */

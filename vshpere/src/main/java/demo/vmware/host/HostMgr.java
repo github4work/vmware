@@ -7,7 +7,7 @@ import java.util.*;
 
 /**
  * A simplest example to get a managed object's property.
- * User: Tao Ma
+ * User: github4work
  * Date: 5/13/13
  * Time: 11:16 AM
  */
