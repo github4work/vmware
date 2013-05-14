@@ -1,5 +1,7 @@
 *.class
-
+*.iml
+install_vim25.bat
+target
 # Package Files #
 *.jar
 *.war
