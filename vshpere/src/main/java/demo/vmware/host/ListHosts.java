@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- *
+ * List all of hosts.
  * User: github4work
  * Date: 5/13/13
  * Time: 3:52 PM
