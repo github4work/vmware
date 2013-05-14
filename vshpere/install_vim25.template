@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=<path-to-file> -DgroupId=com.vmware -DartifactId=vim25 -Dversion=5.1 -Dpackaging=jar
